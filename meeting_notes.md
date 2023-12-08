@@ -3,7 +3,7 @@
 
 ### Group Meeting on 03.11.:
 #### Participants:
-Lisa, Elena, Harkeerat, Lukas, Sebastian, Yujin
+Lisa, Elena, Harkeerat, Lukas, Sebastian, Yujin, Elena
 
 #### Notes:
 - trying to understand the task, data and code
@@ -26,7 +26,7 @@ Lisa, Elena, Sebastian, Harkeerat, Lukas, Ivana, Yujin
 ### Group meeting on 18.11.:
 
 #### Participants:
-Lukas, Yujin, Lisa, Ivana
+Lukas, Yujin, Lisa, Ivana, Elena
 
 #### Notes:
 - talk about brain regions and parcelation into networks
