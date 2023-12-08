@@ -3,7 +3,7 @@
 
 ### Group Meeting on 03.11.:
 #### Participants:
-Lisa, Elena, Harkeerat, Lukas, Sebastian, Yujin, Elena
+Lisa, Elena, Harkeerat, Lukas, Sebastian, Yujin
 
 #### Notes:
 - trying to understand the task, data and code
@@ -39,7 +39,7 @@ Lukas, Yujin, Lisa, Ivana, Elena, Parastoo
 ### Group meeting on 08.12.:
 
 #### Participants:
-Lisa, Sebastian, Lukas, Harkeerat, Ivana
+Lisa, Sebastian, Lukas, Harkeerat, Ivana, Elena
 
 #### Notes:
 - wrapping up the project
