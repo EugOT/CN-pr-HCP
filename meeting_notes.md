@@ -26,7 +26,7 @@ Lisa, Elena, Sebastian, Harkeerat, Lukas, Ivana, Yujin
 ### Group meeting on 18.11.:
 
 #### Participants:
-Lukas, Yujin, Lisa, Ivana, Elena, Parastoo
+Lukas, Yujin, Lisa, Ivana, Elena, Parastoo, Harkeerat
 
 #### Notes:
 - talk about brain regions and parcelation into networks
