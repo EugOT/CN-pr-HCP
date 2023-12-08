@@ -33,3 +33,13 @@ Lukas, Yujin, Lisa
 - creation of the PowerPoint
 - structuring the presentation
 - determining the representatives
+
+---------------------------------------------------------
+
+### Group meeting on 08.12.:
+
+#### Participants:
+Lisa
+
+#### Notes:
+- wrapping up the project
