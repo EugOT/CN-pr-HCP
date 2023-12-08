@@ -39,7 +39,7 @@ Lukas, Yujin, Lisa, Ivana, Elena, Parastoo
 ### Group meeting on 08.12.:
 
 #### Participants:
-Lisa, Sebastian, Lukas, Harkeerat, Ivana, Elena
+Lisa, Sebastian, Lukas, Harkeerat, Ivana, Elena, Parastoo
 
 #### Notes:
 - wrapping up the project
