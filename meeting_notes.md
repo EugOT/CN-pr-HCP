@@ -39,7 +39,7 @@ Lukas, Yujin, Lisa
 ### Group meeting on 08.12.:
 
 #### Participants:
-Lisa, Sebastian, Lukas
+Lisa, Sebastian, Lukas, Harkeerat
 
 #### Notes:
 - wrapping up the project
